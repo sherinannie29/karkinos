@@ -3,7 +3,7 @@
 Postman collection : https://www.getpostman.com/collections/b6b7c5b19f17576270c0
 
 This is a Spring Boot project which connects to an AWS RDS instance. 
-hostname : dev-db.cfir1i2emojy.us-east-2.rds.amazonaws.com
+Hostname : dev-db.cfir1i2emojy.us-east-2.rds.amazonaws.com
 
 Steps to run code on your local : 
 - Clone the repo in your local system.
